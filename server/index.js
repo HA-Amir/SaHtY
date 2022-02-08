@@ -15,7 +15,7 @@ const feedbacks = require("./routes/feedback")
 // import {Stripe} from "stripe";
 
 
-
+const test ='test'
 
 
 var num1 = 0
